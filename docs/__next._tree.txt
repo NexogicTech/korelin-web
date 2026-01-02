@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/c592dbe3d404e343.css","style"]
+:HL["/_next/static/chunks/f03a5b04b5c10c4f.css","style"]
+:HL["/assets/nexogic_logo.png","image"]
+0:{"buildId":"zMUM72gdopS9YUrJY5GWE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"docs","paramType":null,"paramKey":"docs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
